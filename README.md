@@ -14,14 +14,15 @@ A google survey was conducted obtained 166 responses are obtained from the quest
 The data collection tool (questionnaire) consists of two parts Part A, B   
 Part A - Standard Social and specific demographic factors associated with each topic. 
 
-Six questions of demographic information
+Seven questions of demographic information
 1. Gender (male or female)
 2. Living area (rural,semi-urban, urban)
 3. Year of study at the university (Year 1 to Year 6)
 4. Name of the university (state and private )
 5. Undergraduate streams (including Engineering & IT (Computer Science), Physical sciences, Medicine, Nursing, Veterinary and Allied Health, Business Management and Commerce,
 Visual and Performing Arts etc.)
-6. Location where they are engaged in distant learning activities ( home-base, relative’s house, friend’s house or other specific place). 
+6. Location where they are engaged in distant learning activities ( home-base, relative’s house, friend’s house or other specific place).
+7. Attendance to the physical lectures before pandemic (yes/no)
 
 Part B - Questions to measure the outcome (dependent variable)
 

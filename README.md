@@ -26,14 +26,14 @@ Visual and Performing Arts etc.)
 Part B - Questions to measure the outcome (dependent variable)
 
 Matrices to identify Family support:
-● Having a separate area to engage in e-learning activities
-● Having an uninterrupted environment to engage in academic activities
-● Family being able to facilitate the technological requirements and services that are required for distant learning
-● Family encouragement on studies
-● Satisfaction with the current family support regardless the above factors
+* Having a separate area to engage in e-learning activities
+* Having an uninterrupted environment to engage in academic activities
+* Family being able to facilitate the technological requirements and services that are required for distant learning
+* Family encouragement on studies
+* Satisfaction with the current family support regardless the above factors
 
 Matrices to identify friends’support:
-● University colleagues be contacted whenever needed during the distant-learning period
-● Friends’ encouragement on studies
-● Support for the academic activities
-● Satisfaction with the current support regardless the above factors
+* University colleagues be contacted whenever needed during the distant-learning period
+* Friends’ encouragement on studies
+* Support for the academic activities
+* Satisfaction with the current support regardless the above factors

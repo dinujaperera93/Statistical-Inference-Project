@@ -1,0 +1,168 @@
+﻿gender,living_area,year_of_study,university_name,undergraduate_stream,elearning_engaged_location,attendence_lectures_physically_before_pandemic,elearning_hrs_per_day,separate_area,uninterrupted_environment,technological_requirements,family_encouragment,current_support_satisfaction,family_support_satisfaction_score,contactability_of_university_colleagues,friends_encouragement,friends_supportiveness,current_friendsupport_satisfaction,friend_support_satisfaction_score,remote_learning_effectiveness_score,family_support_contribution_score,friends_support_contribution_score
+Female,Semi-urban,4,University of Colombo,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,0,0,-1,-1,-0.2,1,1,1,1,4,4,5,5
+Female,Semi-urban,3,Sri Lanka Institute of Information Technology,Business Management and Commerce,Home,Yes,1-3 hours,1,1,1,1,1,1,1,1,1,1,4,4,5,4
+Female,Semi-urban,1,Universty of Maysoor,"Medicine, Nursing, Veterinary and Allied Health",Home,No,3-5 hours,-1,0,0,0,0,-0.2,1,1,1,1,4,3,4,4
+Female,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,-1,0,0,-1,-0.2,0,1,1,0,2,2,3,5
+Female,Semi-urban,2,University of Colombo,Other,Home,No,3-5 hours,1,1,1,1,1,1,1,1,1,1,4,3,4,3
+Female,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,0,0,1,1,1,0.6,0,0,0,-1,-1,3,3,3
+Female,Urban,2,Universty of Maysoor,Other,Home,Yes,3-5 hours,0,0,1,1,1,0.6,1,1,1,1,4,4,4,4
+Female,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,0,0,1,0,1,0.4,1,1,1,1,4,4,5,5
+Female,Rural,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,-1,0,1,1,1,0.4,1,1,1,1,4,3,4,5
+Female,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,1,1,1,1,1,1,1,1,1,4,2,5,5
+Female,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,0,1,1,1,1,0.8,1,1,1,0,3,3,3,3
+Female,Semi-urban,2,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,7-10 hours,1,1,1,1,1,1,1,0,1,1,3,5,5,3
+Female,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,0,0,1,1,0.6,1,1,1,1,4,3,5,5
+Female,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,-1,-1,1,1,1,0.2,0,0,1,1,2,1,3,3
+Female,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,-1,0,1,1,0.4,1,0,1,1,3,3,5,4
+Female,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,0,1,1,0,0.6,0,1,1,1,3,3,4,4
+Female,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,5,5
+Female,Rural,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,0,0,1,1,1,0.6,1,1,1,1,4,3,4,3
+Female,Rural,2,University of Colombo,Other,Home,No,3-5 hours,1,1,1,1,1,1,1,1,1,1,4,5,4,5
+Female,Semi-urban,2,University of Colombo,Other,Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,4,5,5
+Female,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,0,1,1,1,0.8,1,1,1,1,4,3,5,4
+Female,Rural,1,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,1,1,1,1,1,1,1,1,1,4,4,4,4
+Female,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,5,5
+Female,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,0,0,1,1,0,0.4,0,1,1,0,2,3,3,3
+Female,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,-1,-1,0,1,1,0,-1,0,0,-1,-2,1,3,2
+Female,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,5,4
+Female,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,1,0,1,1,0.8,0,1,1,1,3,2,5,3
+Female,Semi-urban,1,University of Colombo,Other,Home,No,7-10 hours,1,1,1,1,1,1,1,1,1,1,4,4,5,5
+Female,Rural,1,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,0,1,1,1,0.8,1,1,1,1,4,2,5,5
+Female,Urban,3,University of Colombo,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,0,1,1,1,0.8,1,1,1,1,4,2,4,4
+Female,Semi-urban,2,University of Colombo,Other,Home,No,3-5 hours,1,0,1,1,1,0.8,1,1,1,1,4,3,5,4
+Female,Semi-urban,1,University of Sri Jayewardenepura,Other,Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,4,5,5
+Female,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,-1,0,0,1,1,0.2,1,1,1,1,4,3,3,3
+Female,Urban,2,SLIATE ,Engineering & IT (Computer Science),Home,Yes,5-7 hours,0,0,0,1,1,0.4,1,1,1,1,4,3,3,3
+Female,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,1,1,1,1,1,1,1,1,0,3,2,4,3
+Female,Urban,3,University of Colombo,Engineering & IT (Computer Science),Home,Yes,7-10 hours,1,1,1,1,1,1,0,1,1,1,3,4,5,5
+Female,Semi-urban,2,University of Sri Jayewardenepura,Business Management and Commerce,Home,Yes,5-7 hours,1,0,0,1,1,0.6,0,1,1,1,3,3,4,5
+Female,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,1,1,1,1,1,1,1,1,1,4,5,5,5
+Female,Semi-urban,1,University of Colombo,Other,Home,No,7-10 hours,1,0,1,1,1,0.8,1,1,1,1,4,3,4,4
+Female,Semi-urban,1,Sri Lanka Institute of Information Technology,Other,Home,No,5-7 hours,1,0,1,1,1,0.8,1,1,1,1,4,1,4,4
+Female,Rural,1,University of Colombo,Engineering & IT (Computer Science),Home,Yes,10+ hours,1,1,1,1,1,1,0,1,1,0,2,4,5,5
+Female,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,0,-1,1,0,1,0.2,1,1,0,0,2,3,1,3
+Female,Semi-urban,2,CINEC Campus,Other,Other place,Yes,5-7 hours,0,1,1,1,1,0.8,1,0,0,1,2,3,3,3
+Female,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,0,1,1,1,0.8,0,1,1,1,3,3,4,5
+Female,Semi-urban,2,University of Colombo,Other,Home,No,3-5 hours,1,1,1,0,1,0.8,0,0,1,1,2,3,4,4
+Female,Semi-urban,1,University of Colombo,Other,Home,No,7-10 hours,1,0,1,1,1,0.8,1,1,1,1,4,3,5,5
+Female,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,0,-1,1,1,1,0.4,1,1,1,1,4,2,5,5
+Female,Urban,3,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,10+ hours,1,1,1,1,0,0.8,0,0,0,0,0,5,4,3
+Female,Rural,2,University of Sri Jayewardenepura,Physical Sciences,Home,Yes,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,4,5
+Female,Urban,2,UNIVERSITY OF JAFFNA ,Other,Home,Yes,5-7 hours,0,-1,0,1,1,0.2,1,1,1,1,4,3,4,3
+Female,Urban,3,University of Colombo,Engineering & IT (Computer Science),Home,Yes,5-7 hours,1,1,1,1,1,1,1,0,1,0,2,3,2,2
+Female,Semi-urban,2,Institute of Technology University of Moratuwa ,Engineering & IT (Computer Science),Home,No,10+ hours,0,-1,0,0,-1,-0.4,0,0,1,0,1,1,3,3
+Female,Semi-urban,3,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,0,0,1,1,0.6,1,1,1,1,4,4,5,5
+Female,Urban,1,University of Colombo,Other,Home,No,7-10 hours,0,0,1,1,1,0.6,1,1,1,1,4,4,5,4
+Female,Urban,1,South Eastern University of Sri Lanka,Other,Home,No,3-5 hours,1,1,1,1,1,1,1,1,1,1,4,1,5,5
+Female,Rural,3,South Eastern University of Sri Lanka,Other,Other place,Yes,1-3 hours,1,1,0,1,0,0.6,0,1,1,0,2,3,4,4
+Female,Urban,2,Sri Lanka Institute of Information Technology,Other,Home,Yes,5-7 hours,0,1,1,0,1,0.6,1,1,1,1,4,2,4,4
+Female,Urban,1,University of Sri Jayewardenepura,Business Management and Commerce,Home,Yes,5-7 hours,0,1,1,0,0,0.4,0,1,1,1,3,3,3,4
+Female,Semi-urban,6,University of Sri Jayewardenepura,"Medicine, Nursing, Veterinary and Allied Health",Home,Not specifically,1-3 hours,1,-1,0,-1,-1,-0.4,0,0,0,0,0,1,3,3
+Female,Urban,6,University of Sri Jayewardenepura,Other,Home,Yes,5-7 hours,1,1,1,1,-1,0.6,-1,0,0,1,0,3,4,2
+Female,Semi-urban,2,Sri Lanka Institute of Information Technology,Other,Home,Yes,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,2,4,3
+Female,Semi-urban,4,University of Sri Jayewardenepura,Physical Sciences,Home,Yes,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,5,5
+Female,Semi-urban,3,University of Colombo,Engineering & IT (Computer Science),Home,Not specifically,3-5 hours,-1,1,1,0,0,0.2,0,0,0,0,0,3,4,4
+Female,Semi-urban,4,University of Colombo,Engineering & IT (Computer Science),Home,Yes,3-5 hours,0,0,-1,-1,1,-0.2,1,1,1,1,4,4,5,5
+Female,Semi-urban,3,Sri Lanka Institute of Information Technology,Business Management and Commerce,Home,Yes,1-3 hours,1,1,1,1,1,1,1,1,1,1,4,4,5,4
+Male,Semi-urban,3,Sri Lanka Institute of Information Technology,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,1,1,1,1,1,1,0,-1,-1,-1,3,4,2
+Male,Rural,3,Sri Lanka Institute of Information Technology,Engineering & IT (Computer Science),Home,Yes,1-3 hours,0,0,0,1,1,0.4,0,-1,-1,-1,-3,4,5,1
+Male,Semi-urban,3,Sri Lanka Institute of Information Technology,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,1,0,1,1,0.8,0,0,1,0,1,2,4,5
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,Yes,10+ hours,1,1,1,1,1,1,1,0,1,1,3,3,3,3
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,0,0,1,1,1,0.6,0,1,1,1,3,3,4,4
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,0,-1,-1,1,1,0,0,1,0,-1,0,2,4,3
+Male,Semi-urban,2,University of Colombo,Other,Home,No,7-10 hours,1,-1,0,0,1,0.2,-1,0,1,0,0,2,4,2
+Male,Semi-urban,3,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,0,1,1,1,0.8,1,1,1,1,4,1,4,4
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,-1,0,-1,1,0,0,0,1,1,2,2,3,3
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,0,1,1,0,1,0.6,1,1,1,1,4,4,3,5
+Male,Semi-urban,2,University of Colombo,Other,Home,No,3-5 hours,1,1,1,0,1,0.8,0,1,1,1,3,2,3,4
+Male,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,Yes,7-10 hours,1,-1,1,1,1,0.6,1,1,1,0,3,4,3,3
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,Yes,7-10 hours,1,0,0,0,1,0.4,0,0,0,0,0,3,4,2
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,3,3
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,3-5 hours,1,1,1,1,1,1,1,0,0,1,2,2,5,4
+Male,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,-1,0,0,1,1,0.2,1,1,1,1,4,2,5,5
+Male,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,-1,1,-1,1,1,0.2,1,1,1,1,4,2,2,2
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,1-3 hours,0,-1,0,-1,0,-0.4,1,0,-1,0,0,4,3,2
+Male,Semi-urban,3,University of Colombo,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,0,1,1,1,0.8,1,1,1,1,4,3,5,5
+Male,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,1,1,1,1,1,1,1,1,1,4,4,5,5
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,1,1,1,1,1,1,1,0,1,3,4,3,4
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,0,0.8,0,1,1,1,3,3,4,4
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,0,0,0,1,0,0.2,-1,0,0,-1,-2,2,3,2
+Male,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,0,0,1,1,1,0.6,1,1,1,1,4,2,3,3
+Male,Urban,2,University of Colombo,Other,Home,No,5-7 hours,0,1,1,1,1,0.8,1,-1,1,0,1,5,5,3
+Male,Rural,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,0,1,1,1,0.8,1,1,1,1,4,1,4,4
+Male,Urban,4,University of Colombo,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,1,1,1,1,1,0,0,0,0,0,4,4,2
+Male,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,5,5,5
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,3-5 hours,1,0,1,1,1,0.8,0,1,1,1,3,2,4,4
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,0,0,0,1,1,0.4,0,0,1,1,2,3,4,4
+Male,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,-1,1,-1,1,-1,-0.2,-1,-1,0,-1,-3,1,2,1
+Male,Urban,2,University of Colombo,Other,Home,No,3-5 hours,1,1,1,1,1,1,1,0,1,1,3,3,5,4
+Male,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,0,1,1,1,0.8,0,1,1,1,3,3,5,5
+Male,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,1,1,1,1,1,1,1,1,1,4,4,5,4
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,0,-1,1,1,0,0.2,0,1,1,1,3,3,2,4
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,1,1,1,1,1,1,1,1,1,4,4,5,5
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Other place,No,7-10 hours,1,1,1,1,1,1,1,1,1,1,4,4,4,4
+Male,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,0,1,1,0.8,0,1,1,1,3,3,4,4
+Male,Semi-urban,2,University of Colombo,Other,Home,No,5-7 hours,-1,-1,1,1,1,0.2,1,1,1,1,4,4,4,4
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,3-5 hours,1,1,1,1,1,1,0,1,1,1,3,2,4,3
+Male,Rural,2,University of Colombo,Engineering & IT (Computer Science),Home,No,1-3 hours,0,-1,-1,1,1,0,1,1,1,1,4,2,4,5
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,3-5 hours,1,-1,1,1,1,0.6,1,1,1,1,4,2,5,5
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,0,1,1,1,1,0.8,1,1,1,1,4,2,5,5
+Male,Semi-urban,2,University of Colombo,Other,Home,No,1-3 hours,1,1,1,1,1,1,1,1,1,1,4,1,4,4
+Male,Urban,1,University of Moratuwa,Engineering & IT (Computer Science),Home,No,5-7 hours,0,1,0,1,0,0.4,1,1,0,0,2,2,3,2
+Male,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,1,0,0,0,0.4,1,1,1,1,4,2,4,4
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,1,0,-1,-1,1,0,-1,-1,-1,-1,-4,1,4,2
+Male,Semi-urban,1,University of Moratuwa,Engineering & IT (Computer Science),Home,No,3-5 hours,0,0,1,1,1,0.6,1,1,1,1,4,1,4,4
+Male,Rural,2,University of Moratuwa,Engineering & IT (Computer Science),Home,No,5-7 hours,0,0,1,1,1,0.6,1,1,1,0,3,3,4,4
+Male,Urban,2,Institute Of Technology University Of Moratuwa,Other,Home,No,5-7 hours,1,-1,0,1,-1,0,1,1,1,1,4,3,3,3
+Male,Rural,1,University of Moratuwa,Other,Other place,No,3-5 hours,0,-1,1,1,1,0.4,1,1,1,1,4,2,5,5
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,3-5 hours,1,0,0,1,1,0.6,-1,0,0,0,-1,3,3,3
+Male,Semi-urban,1,University of Moratuwa,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,4,4
+Male,Urban,3,CINEC Campus,Engineering & IT (Computer Science),Home,No,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,3,3
+Male,Urban,3,University of Colombo,"Medicine, Nursing, Veterinary and Allied Health",Home,Yes,3-5 hours,0,1,1,1,0,0.6,1,1,1,1,4,4,4,4
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,3-5 hours,1,1,1,1,1,1,1,1,1,1,4,3,5,4
+Male,Semi-urban,5,Eastern university of Srilanka,"Medicine, Nursing, Veterinary and Allied Health",Other place,Yes,5-7 hours,0,1,-1,1,1,0.4,1,1,1,1,4,2,4,4
+Male,Rural,3,CINEC Campus,Engineering & IT (Computer Science),Home,Yes,5-7 hours,-1,1,1,1,1,0.6,1,1,1,1,4,3,5,5
+Male,Urban,3,CINEC Campus Malabe,Engineering & IT (Computer Science),Home,Yes,5-7 hours,-1,-1,0,1,1,0,1,1,1,1,4,1,3,5
+Male,Semi-urban,2,Sri Lanka Institute of Information Technology,Engineering & IT (Computer Science),Home,No,7-10 hours,1,1,1,1,1,1,1,1,-1,1,2,5,5,3
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,0,-1,0,0,1,0,0,0,0,0,0,2,3,2
+Male,Urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,1,0,1,-1,0,0.2,0,0,1,1,2,5,3,3
+Male,Semi-urban,3,CINEC,Engineering & IT (Computer Science),Home,Yes,5-7 hours,1,0,1,1,1,0.8,1,1,1,1,4,3,4,5
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Relative's house,No,5-7 hours,1,-1,1,1,0,0.4,1,1,1,1,4,5,3,4
+Male,Semi-urban,2,University of Colombo,Other,Home,No,7-10 hours,1,0,1,1,1,0.8,1,1,1,1,4,5,5,5
+Male,Semi-urban,3,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,7-10 hours,0,0,1,1,0,0.4,1,1,1,1,4,4,5,5
+Male,Semi-urban,3,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,5-7 hours,1,0,-1,1,1,0.4,0,1,1,1,3,2,3,4
+Male,Semi-urban,3,University of Kelaniya,Engineering & IT (Computer Science),Home,Yes,1-3 hours,1,0,1,1,1,0.8,1,1,1,-1,2,3,2,2
+Male,Semi-urban,3,University of Kelaniya,Engineering & IT (Computer Science),Home,Yes,1-3 hours,0,1,1,0,1,0.6,1,-1,0,0,0,3,5,4
+Male,Rural,2,University of Moratuwa,Engineering & IT (Computer Science),Home,No,1-3 hours,-1,0,0,1,0,0,0,0,0,0,0,2,3,2
+Male,Semi-urban,3,University of Kelaniya,Other,Other place,No,1-3 hours,0,0,-1,0,-1,-0.4,1,1,1,-1,2,5,3,3
+Male,Semi-urban,3,University of Kelaniya,Business Management and Commerce,Home,Yes,1-3 hours,0,0,-1,1,1,0.2,0,1,0,0,1,3,4,3
+Male,Semi-urban,2,Institute of Technology University of Moratuwa,Other,Home,No,5-7 hours,-1,-1,0,0,0,-0.4,0,0,0,0,0,1,2,3
+Male,Semi-urban,3,University of Kelaniya,Engineering & IT (Computer Science),Home,Yes,1-3 hours,0,-1,0,0,0,-0.2,0,1,1,0,2,2,2,2
+Male,Semi-urban,3,University of Kelaniya,Other,Home,Yes,7-10 hours,1,0,-1,0,-1,-0.2,-1,0,0,0,-1,3,4,2
+Male,Rural,2,University of Moratuwa,Engineering & IT (Computer Science),Home,No,5-7 hours,1,0,1,-1,1,0.4,0,-1,-1,-1,-3,4,1,1
+Male,Urban,3,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,5-7 hours,1,1,1,1,1,1,0,-1,0,1,0,3,5,2
+Male,Urban,3,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,0,1,1,1,0.8,1,1,1,1,4,3,4,4
+Male,Semi-urban,3,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,7-10 hours,1,1,1,1,1,1,1,1,1,1,4,4,5,4
+Male,Rural,1,University of Colombo,Other,Home,No,10+ hours,1,1,0,1,1,0.8,1,1,1,1,4,4,5,5
+Male,Urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,10+ hours,-1,0,1,1,1,0.4,1,1,0,1,3,4,2,2
+Male,Semi-urban,1,University of Colombo,Engineering & IT (Computer Science),Home,No,5-7 hours,0,-1,1,0,1,0.2,0,0,0,0,0,4,3,2
+Male,Semi-urban,2,Sri Lanka Institute of Advanced Technological Education,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,-1,1,1,1,0.6,1,1,1,1,4,3,4,4
+Male,Semi-urban,2,University of Sri Jayewardenepura,Physical Sciences,Other place,Yes,5-7 hours,0,0,1,1,1,0.6,1,1,1,1,4,1,5,5
+Male,Urban,3,University of Colombo,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,0,1,1,1,0.8,1,0,1,0,2,4,5,3
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,1-3 hours,-1,-1,1,1,1,0.2,0,0,1,0,1,2,5,5
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,7-10 hours,1,1,1,1,1,1,0,0,0,0,0,3,5,4
+Male,Semi-urban,2,University of Colombo,Business Management and Commerce,Home,Yes,7-10 hours,1,-1,1,1,1,0.6,0,0,1,0,1,3,5,5
+Male,Semi-urban,2,University of Colombo,Engineering & IT (Computer Science),Home,No,3-5 hours,0,1,1,1,1,0.8,0,1,1,1,3,2,4,4
+Male,Semi-urban,2,University of Colombo,Physical Sciences,Home,No,5-7 hours,1,0,1,1,1,0.8,1,1,1,1,4,4,4,4
+Male,Semi-urban,2,University of Colombo,Business Management and Commerce,Home,Yes,1-3 hours,1,1,1,1,1,1,1,1,1,1,4,3,3,3
+Male,Semi-urban,3,Sri Lanka Institute of Information Technology,Business Management and Commerce,Home,Yes,1-3 hours,1,1,1,1,1,1,0,1,1,1,3,5,3,3
+Male,Semi-urban,2,University of Moratuwa,Engineering & IT (Computer Science),Home,Yes,1-3 hours,1,1,0,1,0,0.6,1,1,1,1,4,5,5,5
+Male,Semi-urban,3,Sri Lanka Institute of Information Technology,Business Management and Commerce,Home,Yes,3-5 hours,1,1,1,1,1,1,0,1,1,1,3,5,5,4
+Male,Semi-urban,5,University of Kelaniya,"Medicine, Nursing, Veterinary and Allied Health",Home,Yes,1-3 hours,1,1,1,1,1,1,1,1,1,1,4,2,4,4
+Male,Rural,3,University of Colombo,Other,Home,Yes,5-7 hours,1,1,1,1,1,1,1,1,1,1,4,3,5,5
+Male,Urban,3,Sri Lanka Institute of Information Technology,Other,Home,Not specifically,5-7 hours,-1,1,1,1,0,0.4,1,1,1,1,4,3,5,5
+Male,Urban,4,University of Colombo,Engineering & IT (Computer Science),Home,Not specifically,3-5 hours,0,1,0,0,1,0.4,0,1,1,1,3,5,4,4
+Male,Semi-urban,3,Sri Lanka Institute of Information Technology,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,1,1,1,1,1,0,-1,-1,-1,-3,3,4,2
+Male,Rural,3,Sri Lanka Institute of Information Technology,Engineering & IT (Computer Science),Home,Not specifically,1-3 hours,0,0,1,1,0,0.4,-1,-1,-1,-1,-4,4,5,1
+Male,Semi-urban,3,Sri Lanka Institute of Information Technology,Engineering & IT (Computer Science),Home,Yes,3-5 hours,1,0,1,1,0,0.6,0,1,1,0,2,2,4,5
+,,,,,,,,,,,,,,,,,,,,,
